@@ -1,0 +1,6 @@
+Country,Code,Product,Cost,Quantity,ValuePerItem
+South Africa,SKU44386,Air Max 90,2300,2,4600
+China,SKU90000,Jordan 1,3200,50,160000
+Vietnam,SKU63221,Blazer,1700,19,32300
+United States,SKU29077,Cortez,970,60,58200
+Russia,SKU89999,Air Force 1,2000,43,86000
